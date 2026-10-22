@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_700">#2E7D32</color>
+    <color name="green_900">#1B5E20</color>
+    <color name="orange">#EF6C00</color>
+    <color name="white">#FFFFFF</color>
+    <color name="warning_bg">#FFF3CD</color>
+    <color name="warning_text">#7A5200</color>
+    <color name="expired_red">#C62828</color>
+    <color name="grey_text">#616161</color>
+</resources>
