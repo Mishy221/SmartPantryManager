@@ -48,7 +48,7 @@ app/src/test/.../IngredientMatcherTest.java Unit tests for the matching rule
 **Requirements:** Android Studio (Hedgehog or newer), internet connection for the first Gradle sync.
 
 1. Clone or download this repository:
-   `git clone https://github.com/<your-username>/SmartPantryManager.git`
+   `git clone https://github.com/Mishy221/SmartPantryManager.git`
 2. Open Android Studio -> **File > Open** -> select the `SmartPantryManager` folder (the one containing `settings.gradle`).
 3. Wait for **Gradle Sync** to finish (bottom status bar). Accept any prompt to install missing SDK components.
 4. Create an emulator: **Tools > Device Manager > Create Device** (e.g. Pixel 6, API 34), or plug in a physical phone with USB debugging enabled.
